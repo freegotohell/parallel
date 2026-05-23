@@ -117,7 +117,7 @@ void saveMatrix(const string& filename, const vector<vector<double>>& matrix) {
 
 ## Результат выполнения программы
 
-![Вывод программы](images/res.jpg)
+![Вывод программы](images/res1.jpg)
 ![Вывод программы](images/res2.jpg)
 ## Результат верификации
 
